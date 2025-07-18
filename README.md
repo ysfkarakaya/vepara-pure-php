@@ -60,9 +60,9 @@ vepara_pure_php/
 
 ```php
 return [
-    'merchant_key' => '$2y$10$s0XJ67CUdfjwruZaZuHTGO0vFqJa.9VcX8pQD6XIjYAejvxlxWPx2',
-    'app_id' => '44c618310d916dbca1fcc327469b175d',
-    'app_secret' => 'fa918fe712934fe81479e11085bae63b',
+    'merchant_key' => 'xxx',
+    'app_id' => 'xxx',
+    'app_secret' => 'xxx',
     'currency_code' => 'TRY',
     'return_url' => 'http://localhost/vepara_pure_php/success.php',
     'cancel_url' => 'http://localhost/vepara_pure_php/error.php',
